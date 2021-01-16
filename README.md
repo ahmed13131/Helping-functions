@@ -44,5 +44,5 @@ removes outliers with two techniques z-score and Inter-Quartile Range.
 apply Log function to the features.
 
 * x_train -> training data
-* x_test -> testing data if your data is big enough
+* x_test -> testing data 
 
