@@ -12,7 +12,7 @@ a Library to help u make work more easier to do more in less time by dealing wit
 calculate Ordinary Least Squares to know which features are important and make overview of the regression model.
 
 * df -> the dataframe.
-* label_column -> the column you want to predict.
+* label_column -> the Dependent column.
 
 <br/>
 
