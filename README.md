@@ -8,7 +8,7 @@ a Library to help u make work more easier to do more in less time by dealing wit
 
 ## Existing functions:
 
-#### p_val_of_features(df,label_column): 
+#### p_val_of_features ( df , label_column ): 
 calculate Ordinary Least Squares to know which features are important and make overview of the regression model.
 
 * df -> the dataframe.
@@ -16,7 +16,7 @@ calculate Ordinary Least Squares to know which features are important and make o
 
 <br/>
 
-#### fill_lin_rand(messy_df, metric, colnames): 
+#### fill_lin_rand ( messy_df, metric , colnames ): 
 fill the Nan values by Linear Regression or by Randon Forest.
 
 * messy_df -> data frame you want to work on.
@@ -25,14 +25,14 @@ fill the Nan values by Linear Regression or by Randon Forest.
 
 <br/>
 
-#### reduce_mem_usage(props):
+#### reduce_mem_usage ( props ):
 reduce memory usage of the dataframe.
 
 * props-> dataset you want to reduce
 
 <br/>
 
-#### dealing_with_outliers(df , type_o):
+#### dealing_with_outliers( df , type_o ):
 removes outliers with two techniques z-score and Inter-Quartile Range. 
 
 * df -> dataframe
@@ -40,7 +40,7 @@ removes outliers with two techniques z-score and Inter-Quartile Range.
 
 <br/>
 
-#### log_features(x_train , x_test=None):
+#### log_features ( x_train , x_test = None ):
 apply Log function to the features.
 
 * x_train -> training data
