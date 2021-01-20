@@ -2,7 +2,7 @@
 # Helping-functions for Data preprocessing (Demo):
 
 ## What it is about:
-a Library to help u make work more easier to do more in less time by dealing with data and in the way you want
+Functions to help you make work more easier to do more in less time by dealing with data and in the way you want
 
 <br/>
 
