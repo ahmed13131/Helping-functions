@@ -32,7 +32,7 @@ reduce memory usage of the dataframe.
 
 <br/>
 
-#### dealing_with_outliers( df , type_o ):
+#### dealing_with_outliers( df , type_o = "z-score" ):
 removes outliers with two techniques z-score and Inter-Quartile Range. 
 
 * df -> dataframe
@@ -46,3 +46,9 @@ apply Log function to the features.
 * x_train -> training data
 * x_test -> testing data 
 
+## How to use it:
+```
+from Helping functions import reduce_mem_usage
+
+df_new = reduce_mem_usage(df_old)
+```
