@@ -1,5 +1,5 @@
 ![1_eVZyKIcUXOfzPrMTGx7yVw](https://user-images.githubusercontent.com/59618586/104822204-81e41f00-5849-11eb-8b7b-2795c53cc2ae.png)
-# Helping-functions (Demo):
+# Helping-functions for Data preprocessing (Demo):
 
 ## What it is about:
 a Library to help u make work more easier to do more in less time by dealing with data and in the way you want
