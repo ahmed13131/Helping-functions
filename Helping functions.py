@@ -7,8 +7,6 @@ from sklearn.ensemble import RandomForestRegressor
 import statsmodels.formula.api as sm
 from scipy import stats
 
-get_ipython().run_line_magic('matplotlib', 'inline')
-
 
 def p_val_of_features(df,label_column):
     
