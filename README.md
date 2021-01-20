@@ -17,7 +17,7 @@ calculate Ordinary Least Squares to know which features are important and make o
 <br/>
 
 #### fill_lin_rand ( messy_df, metric , colnames ): 
-fill the Nan values by Linear Regression or by Randon Forest.
+fill the Nan values by Linear Regression or by Random Forest.
 
 * messy_df -> data frame you want to work on.
 * metric -> model you want to work with (Linear Reg , Random forest).
