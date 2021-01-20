@@ -47,8 +47,4 @@ apply Log function to the features.
 * x_test -> testing data 
 
 ## How to use it:
-```
-from Helping functions import reduce_mem_usage
-
-df_new = reduce_mem_usage(df_old)
-```
+![Annotation 2021-01-21 013753](https://user-images.githubusercontent.com/59618586/105254033-5767ce00-5b89-11eb-8f59-d08b0eaf777f.png)
